@@ -1,2 +1,2 @@
-# Leetcode-Python
-The repo about the python coding practice in leetcode.
+# Leetcode-Practices
+The repo about the coding practice in leetcode.
