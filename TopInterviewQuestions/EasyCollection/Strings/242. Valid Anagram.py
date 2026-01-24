@@ -1,3 +1,10 @@
+"""
+LeetCode Problem: 242. Valid Anagram
+Given two strings s and t, return true if t is an anagram of s, and false otherwise
+
+Link: https://leetcode.com/problems/valid-anagram/description/
+"""
+
 class Solution(object):
     def isAnagram(self, s, t):
         if len(s) != len(t):
